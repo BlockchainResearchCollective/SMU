@@ -1,0 +1,6 @@
+[submodule "Blockchain"]
+	path = Blockchain
+	url = https://github.com/jordenseet/Blockchain
+[submodule "Jorden's Github"]
+	path = Jorden's Github
+	url = https://github.com/jordenseet/Blockchain
